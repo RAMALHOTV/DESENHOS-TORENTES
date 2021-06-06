@@ -1,20 +1,6 @@
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR lime] LISTA DE FILMES PARA AS BOX RAMALHOTV.OBRIGADO!! [/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR yellow] """"""""" CRIADOR..DA..LISTA..RAMALHOTV """""""""[/COLOR]
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqo88Ul5QAMzg5W-4ll5F7gzj_15Zd3XJA8wVXnait03bCD09i
-#EXTINF:0 tvg-logo="https://i.imgur.com/M0aRl2a.jpg",[COLOR yellow] """"""""" ATUALIZADA TODOS OS DIAS  """""""""[/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR yellow] """"""""" LANÇAMENTOS..2014..E..2021..POR CATEGORIA """""""""[/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR green] """"""""" FILMES..VIA..TORRENTS """""""""[/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:0 tvg-logo=">https://i.imgur.com/M0aRl2a.jpg",[COLOR gold]""""""""" DUBLADO..BluRay..720P/1080p """""""""" [/COLOR]
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] A Caverna Do Dragão [COLOR lime]Todos Episodeos[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81F8C4AC8315F187561CFA70A5C39F78C8BC2C16</link><thumbnail>https://i.imgur.com/PJXY1vk.jpg</thumbnail><info>[B][COLOR yellow]Na abertura a série mostra um grupo de seis jovens em um parque de diversões embarcando em uma montanha russa chamada "Dungeons & Dragons". Contudo, durante o passeio, um portal se abre e transporta as crianças para outro mundo, chamado simplesmente de "Reino", no qual o grupo já aparece trajando outras roupas e recebendo logo em seguida armas mágicas — as Armas do Poder — de alguém que se apresenta como o Mestre dos Magos (Dungeon Master, no original, termo também presente nos jogos de role-playing game que deram origem à série). A partir daí, os jovens passam por diversas aventuras buscando voltar para casa, durante as quais o Vingador, um mago maléfico, tenta a todo custo tomar as Armas do Poder dos jovens com a intenção de derrotar tanto o Mestre dos Magos quanto Tiamat, para assim dominar o Reino. Ao longo do seriado, revela-se que o Vingador é, na realidade, filho do Mestre dos Magos. [/COLOR][/B]</info></item>
